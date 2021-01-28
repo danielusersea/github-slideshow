@@ -3,5 +3,5 @@ layout: slide
 title: "Welcome to our second slide!"
 ---
 "Wissen ist Kraft!"  
-\-Francis Bacon    
+\- Francis Bacon    
 Use the left arrow to go back!
